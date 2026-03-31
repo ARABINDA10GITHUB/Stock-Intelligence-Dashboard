@@ -159,6 +159,13 @@ Same pattern — point start command to `backend/main.py` with uvicorn.
 - **FastAPI** — Auto-generates OpenAPI/Swagger docs; async-ready for future scaling
 
 ---
+## 🌐 Live Demo
+
+🔗 Backend API:  
+https://stock-intelligence-dashboard-2.onrender.com/
+
+📊 API Docs (Swagger UI):  
+https://stock-intelligence-dashboard-2.onrender.com/docs
 
 ## 📧 Submitted by
 
